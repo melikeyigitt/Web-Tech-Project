@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Staatliches&family=Play&display=swap');
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+form {
+    width: 100%;
+    padding: 2%;
+    background-color:#EA5455;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input[type="text"]{
+    margin-bottom: 1rem;
+    padding: 0.5rem 13rem 0.5rem 0;
+}
+textarea{
+    margin-bottom: 1rem;
+    padding: 0.5rem 13rem 3rem 0;
+}
+input[type="submit"],input[type="reset"]{
+    margin-top: 2%;
+    justify-content: center;
+    padding: 0.5rem 4rem 0.5rem 4rem;
+    background-color:darkslateblue;
+    color: white;
+}

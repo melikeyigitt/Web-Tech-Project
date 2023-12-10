@@ -1,0 +1,37 @@
+body {
+    background: #EA5455;
+    color: white;
+    height: 100vh;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    text-align: start;
+}
+h2{
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+title{
+
+}
+
+form{
+    width: 32rem;
+    border: 2px solid #ccc;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 1rem;
+    color: black;
+
+}
+
+.error {
+    background: #F2DEDE;
+    color: #A94442;
+    padding: 0.625rem;
+    width: 60%;
+    border-radius: 5px;
+}

@@ -1,0 +1,136 @@
+@media only screen and (max-width: 768px) {
+    .container {
+        display: block;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+    'header header'
+    'about-myself about-myself'
+    'skill'
+    'education'
+    'footer';
+    }
+
+    header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    div #login {
+        display: block;
+        text-align: center;
+        margin: 2rem auto;
+        font-size: 1.2rem;
+        padding: 1rem;
+        border-radius: 5px;
+        background-color: #2a9d8f;
+        color: #fff;
+    }
+
+    div #login a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    header img {
+        margin-bottom: 1rem;
+    }
+
+    header h1 {
+        margin: 0.5rem;
+        font-size: 1.5rem;
+    }
+
+    header nav {
+        margin-top: 1rem;
+    }
+
+    header nav li {
+        margin: 0.5rem;
+    }
+
+    .top-container {
+        text-align: center;
+        padding: 2rem;
+    }
+
+    .top-container h2 {
+        margin-top: 0;
+        font-size: 2rem;
+    }
+
+    .top-container .blog_img img {
+        width: 60%;
+    }
+
+    .middle-container {
+        padding: 2rem;
+    }
+
+    .item {
+        margin-bottom: 2rem;
+    }
+
+    #about-myself {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #about p {
+        margin-top:1rem;
+    }
+
+    #about-figure {
+        margin-left: 0;
+    }
+
+    #about-figure img {
+        width: 80%;
+        margin-bottom: 1rem;
+    }
+
+    #skill {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+
+    #skills-1 {
+        margin-left: 0;
+    }
+
+    #skills-2 li {
+        font-size: 0.7rem;
+    }
+
+    #skills-2 {
+        margin: 1rem;
+        grid-gap: 1rem;
+    }
+
+    #education p {
+        font-size: 1.2rem;
+        margin-top: 1rem;
+    }
+
+    .container a {
+        display: block;
+        text-align: center;
+        margin: 2rem auto;
+        font-size: 1.2rem;
+        padding: 1rem;
+        border-radius: 5px;
+        background-color: #2a9d8f;
+        color: #fff;
+        width: 60%;
+    }
+
+    footer {
+        text-align: center;
+        padding: 2rem;
+    }
+}
