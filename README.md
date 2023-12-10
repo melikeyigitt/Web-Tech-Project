@@ -4,10 +4,12 @@
 Welcome to the "Games in Python" repository! This repository is a collection of small, fun, and interactive games developed in Python. These games are designed to provide both entertainment and a learning platform for those interested in understanding how basic game mechanics are implemented in Python.
 
 ## Games Included
-- [List the names of the games included in the repository]
-- Game 1: [Brief description]
-- Game 2: [Brief description]
-- ...
+
+- **Hangman (`hangman.py`)**
+- **Memory Puzzle (`memorypuzzle.py`)**
+- **Rock Paper Scissors (`rockpaperscissors.py`)**
+- **Snake (`snake.py`)**
+- **Tic Tac Toe (`tictactoe.py`)**
 
 ## Getting Started
 ### Prerequisites
