@@ -24,7 +24,7 @@ Welcome to my Personal Web Blog repository! This project is a dynamic, PHP-based
 
 ### Installation
 1. Clone the repository to your local server environment:
-git clone[ [[repository](https://github.com/melikeyigitt/Web-Tech-Pro) URL]]
+git clone (https://github.com/melikeyigitt/Web-Tech-Project)
 
 markdown
 Copy code
