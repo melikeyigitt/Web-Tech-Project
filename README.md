@@ -5,11 +5,11 @@ Welcome to the "Games in Python" repository! This repository is a collection of 
 
 ## Games Included
 
-- **Hangman (`hangman.py`)**
-- **Memory Puzzle (`memorypuzzle.py`)**
-- **Rock Paper Scissors (`rockpaperscissors.py`)**
-- **Snake (`snake.py`)**
-- **Tic Tac Toe (`tictactoe.py`)**
+- **Hangman `hangman.py`**
+- **Memory Puzzle `memorypuzzle.py`**
+- **Rock Paper Scissors `rockpaperscissors.py`**
+- **Snake `snake.py`**
+- **Tic Tac Toe `tictactoe.py`**
 
 ## Getting Started
 ### Prerequisites
